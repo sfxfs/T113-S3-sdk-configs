@@ -1,5 +1,8 @@
 # T113-S3-sdk-configs
-适用于 T113 官方 buildroot SDK 的配置文件
+
+*中文 | [English](README_EN.md)*
+
+适用于全志 T113 官方 buildroot SDK 的配置文件和官方技术手册，所有资料均收集自互联网。
 
 编译前请安装需要的依赖：
 
